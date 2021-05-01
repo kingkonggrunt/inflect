@@ -893,6 +893,7 @@ pl_sb_uninflected_s_complete = [
 pl_sb_uninflected_s_endings = [
     # RECENT IMPORTS...
     "ois",
+    "process",
     # DISEASES
     "measles",
 ]
@@ -955,6 +956,7 @@ pl_sb_uninflected_complete = [
     "pence",
     "quid",
     "hertz",
+    "slice",
 ] + pl_sb_uninflected_s_complete
 # SOME WORDS ENDING IN ...s (OFTEN PAIRS TAKEN AS A WHOLE)
 
